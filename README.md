@@ -12,5 +12,7 @@ Instructions
 Discussion
 I used the following technologies: HTML & CSS.
 
+A live version can be seen at https://codepen.io/IngaMM/full/JaOpKj
+
 Requirements
 Browser
